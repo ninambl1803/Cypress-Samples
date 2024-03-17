@@ -1,3 +1,10 @@
 # Cypress - Project Samples
 
-## Branch 0 -  Init the new project with examples from Cypress
+## Branch master -  Init the new project with examples from Cypress
+#Install 
+npm install
+#Test
+npm run test
+#Open Cypress
+npm run cy:open
+
